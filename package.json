@@ -1,0 +1,40 @@
+{
+  "name": "vkmd",
+  "version": "1.0.0",
+  "description": "Modern, fully responsive, animated website for VKMD",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "@heroicons/react": "^2.0.18",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishnavi052/VKMD.git"
+  },
+  "keywords": ["react", "tailwind", "vkmd", "website", "responsive"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaishnavi052/VKMD/issues"
+  },
+  "homepage": "https://github.com/Vaishnavi052/VKMD#readme"
+}
